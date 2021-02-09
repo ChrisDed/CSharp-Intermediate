@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe.config
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\bin\Debug\ClassMethods.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\bin\Debug\ClassMethods.pdb
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\obj\Debug\ClassMethods.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\obj\Debug\ClassMethods.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassMethods\ClassMethods\obj\Debug\ClassMethods.pdb

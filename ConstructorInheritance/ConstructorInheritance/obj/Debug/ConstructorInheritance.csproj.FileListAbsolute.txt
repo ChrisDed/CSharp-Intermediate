@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.dll
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\ConstructorInheritance\bin\Debug\ConstructorInheritance.pdb
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.dll
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\ConstructorInheritance\obj\Debug\ConstructorInheritance.pdb

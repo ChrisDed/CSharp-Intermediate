@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\bin\Debug\ClassFields.exe.config
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\bin\Debug\ClassFields.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\bin\Debug\ClassFields.pdb
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\obj\Debug\ClassFields.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\obj\Debug\ClassFields.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\obj\Debug\ClassFields.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassFields\ClassFields\obj\Debug\ClassFields.pdb

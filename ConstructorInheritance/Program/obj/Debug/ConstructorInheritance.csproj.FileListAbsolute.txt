@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\Program\bin\Debug\Program.exe.config
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\Program\bin\Debug\Program.exe
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\Program\bin\Debug\Program.pdb
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\Program\obj\Debug\ConstructorInheritance.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\Program\obj\Debug\Program.exe
+C:\Users\chris\source\repos\C# Intermediate\ConstructorInheritance\Program\obj\Debug\Program.pdb

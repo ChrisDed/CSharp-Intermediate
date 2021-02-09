@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\bin\Debug\InheritanceExercises.exe.config
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\bin\Debug\InheritanceExercises.exe
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\bin\Debug\InheritanceExercises.pdb
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\obj\Debug\InheritanceExercises.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\obj\Debug\InheritanceExercises.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\obj\Debug\InheritanceExercises.exe
+C:\Users\chris\source\repos\C# Intermediate\InheritanceExercises\InheritanceExercises\obj\Debug\InheritanceExercises.pdb

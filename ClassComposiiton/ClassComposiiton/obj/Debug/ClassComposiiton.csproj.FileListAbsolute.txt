@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\bin\Debug\ClassComposiiton.exe.config
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\bin\Debug\ClassComposiiton.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\bin\Debug\ClassComposiiton.pdb
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\obj\Debug\ClassComposiiton.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\obj\Debug\ClassComposiiton.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\obj\Debug\ClassComposiiton.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassComposiiton\ClassComposiiton\obj\Debug\ClassComposiiton.pdb

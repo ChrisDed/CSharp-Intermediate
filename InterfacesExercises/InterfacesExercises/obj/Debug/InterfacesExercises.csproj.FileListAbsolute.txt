@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\bin\Debug\InterfacesExercises.exe.config
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\bin\Debug\InterfacesExercises.exe
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\bin\Debug\InterfacesExercises.pdb
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.exe
+C:\Users\chris\source\repos\C# Intermediate\InterfacesExercises\InterfacesExercises\obj\Debug\InterfacesExercises.pdb

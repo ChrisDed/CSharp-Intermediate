@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\bin\Debug\ClassIndexers.exe.config
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\bin\Debug\ClassIndexers.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\bin\Debug\ClassIndexers.pdb
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassIndexers\ClassIndexers\obj\Debug\ClassIndexers.pdb

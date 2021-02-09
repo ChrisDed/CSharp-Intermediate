@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\bin\Debug\ClassInheritance.exe.config
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\bin\Debug\ClassInheritance.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\bin\Debug\ClassInheritance.pdb
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\obj\Debug\ClassInheritance.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\obj\Debug\ClassInheritance.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\obj\Debug\ClassInheritance.exe
+C:\Users\chris\source\repos\C# Intermediate\ClassInheritance\ClassInheritance\obj\Debug\ClassInheritance.pdb

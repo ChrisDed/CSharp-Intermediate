@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.exe.config
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.exe
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\bin\Debug\InterfacesAndExtensibility.pdb
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.exe
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndExtensibility\InterfacesAndExtensibility\obj\Debug\InterfacesAndExtensibility.pdb

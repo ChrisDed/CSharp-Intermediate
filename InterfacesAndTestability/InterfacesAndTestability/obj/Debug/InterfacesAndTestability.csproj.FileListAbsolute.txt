@@ -1,0 +1,6 @@
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndTestability\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.exe.config
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndTestability\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.exe
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndTestability\InterfacesAndTestability\bin\Debug\InterfacesAndTestability.pdb
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.exe
+C:\Users\chris\source\repos\C# Intermediate\InterfacesAndTestability\InterfacesAndTestability\obj\Debug\InterfacesAndTestability.pdb

@@ -1,0 +1,7 @@
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\AbstractClassesAndMembers.exe.config
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\AbstractClassesAndMembers.exe
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\bin\Debug\AbstractClassesAndMembers.pdb
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\AbstractClassesAndMembers.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\AbstractClassesAndMembers.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\AbstractClassesAndMembers.exe
+C:\Users\chris\source\repos\C# Intermediate\AbstractClassesAndMembers\AbstractClassesAndMembers\obj\Debug\AbstractClassesAndMembers.pdb
